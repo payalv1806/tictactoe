@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://payalv1806.github.io/tic-tac-toe",
+  "homepage": "https://payalv1806.github.io/tictactoe",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
